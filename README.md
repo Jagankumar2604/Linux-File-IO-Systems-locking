@@ -148,7 +148,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-<img width="1599" height="1136" alt="WhatsApp Image 2026-05-13 at 11 47 14 AM" src="https://github.com/user-attachments/assets/cd333c06-4f63-4854-9803-ef838293e74b" />
+<img width="1740" height="904" alt="ChatGPT Image May 18, 2026, 11_08_57 AM" src="https://github.com/user-attachments/assets/9632f33f-3309-44ef-bf86-fe30eebe38c5" />
 
 <img width="1920" height="922" alt="ex 7 2 os" src="https://github.com/user-attachments/assets/794e7219-d3a4-44cd-ba21-971e30659bc7" />
 
